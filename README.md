@@ -7,6 +7,7 @@ A simple text editor app.
 
 ## Install
 
+![Screenshot](../Text-Editor/client/dist/assets/images/Screenshot%202023-03-27%20204104.png "Screenshot")
 <br>
 
 ## Credits
