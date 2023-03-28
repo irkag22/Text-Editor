@@ -2,18 +2,21 @@
 
 ## Description
 
+A simple text editor app.
 <br>
 
-## Use
+## Install
 
 <br>
 
 ## Credits
 
+[Irina's GitHub](https://github.com/irkag22)
 <br>
 
 ## License
 
+MIT
 <br>
 
-Started code was provided. Worked with a classmate to complete assignment.
+Starter code was provided. Worked with a classmate to complete assignment. BCS helped resolve path and heroku errors.
